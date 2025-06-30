@@ -1,0 +1,24 @@
+# Temporary editor files
+*.swp
+*.tmp
+*~
+
+# System files (Windows/Mac)
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# VS Code workspace settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# Example/test data files
+test.txt
+*.test
+
+# Compiled binaries (just in case)
+*.exe
+*.out
+*.o
